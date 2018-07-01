@@ -1,0 +1,693 @@
+{
+  "message": "Noche sin música no es noche...",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=CL&locale=en_us&timestamp=2018-06-29T12%3A00%3A00&offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX8O2z77nfMgH"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX8O2z77nfMgH",
+        "id": "37i9dQZF1DX8O2z77nfMgH",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/66da51c771ad53de836eedc5dd02bb134b00143f",
+            "width": 300
+          }
+        ],
+        "name": "Novedades Viernes Sudamérica",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "OV3uQVUAgSEwsSxcNlnANdexwd79eHHEd6wBJOLCQvwWcXVwIZTeMXcREzHpqfbOkQUuUSEv3ok=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX8O2z77nfMgH/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8O2z77nfMgH"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZjqjZMudx9T"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZjqjZMudx9T",
+        "id": "37i9dQZF1DWZjqjZMudx9T",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6c5793db4530748dbe40a80f9d510c2e50cabe38",
+            "width": 300
+          }
+        ],
+        "name": "Carrete 2018",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "brC97fw3fxK1ZgJ6QQBgnF8SwvSUx3Sv0XW4+Ow0adiCci5/Gqdjp/JnOJ7izmkycXUxhit9sUU=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZjqjZMudx9T/tracks",
+          "total": 65
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWZjqjZMudx9T"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6JcLkkShqRw"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX6JcLkkShqRw",
+        "id": "37i9dQZF1DX6JcLkkShqRw",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/14f0868c2cb1e063643fc0d2593171aee836e074",
+            "width": 300
+          }
+        ],
+        "name": "Flow al Sur",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "CmuyFjAG7W8vu+FziqYOBJBoXVsHu91fq/e2sATMLNJz5HeGSJAJLP9diuFrvBAATnYn5q8p06E=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX6JcLkkShqRw/tracks",
+          "total": 65
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX6JcLkkShqRw"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7QOv5kjbU68"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68",
+        "id": "37i9dQZF1DX7QOv5kjbU68",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6d3019960de3a0932ae23c90fcbf71619a1cc0d6",
+            "width": 300
+          }
+        ],
+        "name": "This Is Drake",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "XzqIhgIxPD9v23VilaXjONWKUnSjVElxWgxzkwbsi4fkGUSgrxxv8h6DIQYRFAy8Lls5NACknEg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7QOv5kjbU68"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXclgCwbk0uat"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXclgCwbk0uat",
+        "id": "37i9dQZF1DXclgCwbk0uat",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d8e3b05092a67962954481c45499fdb8c992f1fa",
+            "width": 300
+          }
+        ],
+        "name": "Éxitos Chile",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "brC97fw3fxJesRLJfiUir5d+nmMdvrvZonuHktQfUPknBuSoZL6Sy5E87+sqtJLlyMBa715J0wg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXclgCwbk0uat/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXclgCwbk0uat"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVxoleDT3ILq"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVxoleDT3ILq",
+        "id": "37i9dQZF1DWVxoleDT3ILq",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9890eddd00240f095b7ce3501a6d938569c12240",
+            "width": 300
+          }
+        ],
+        "name": "Indie Chile",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "brC97fw3fxKoPN+8/MHVPFUlgcgTG3/otaD50NrQsZ2ibsny2pb3wr+zl67kLmS9VroZ3S3MyXM=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVxoleDT3ILq/tracks",
+          "total": 65
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVxoleDT3ILq"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcBWIGoYBM5M"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcBWIGoYBM5M",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/179fd45014801e04939ff4d5a05a33fa5a574e2b",
+            "width": 300
+          }
+        ],
+        "name": "Today's Top Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "nKZGoj2Ib37yJDLZO5NilVF/8d2mdFc3NWh1qQb8JNgpfxNMN2Zh0Whh5YXZTD7bW8paoVH9Bgw=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXdPec7aLTmlC"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXdPec7aLTmlC",
+        "id": "37i9dQZF1DXdPec7aLTmlC",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d50d0639e56561827005a293ff0fc17103d3e830",
+            "width": 300
+          }
+        ],
+        "name": "Happy Hits!",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "g3IPt8fH/I5vqegSV8c2i7HkhYznD3p6t+gCevN6jSLt/2bn+t2iKe0GWdjaENXqVgmfE1N8nNo=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXdPec7aLTmlC/tracks",
+          "total": 54
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX3TKWnpd3vOb"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX3TKWnpd3vOb",
+        "id": "37i9dQZF1DX3TKWnpd3vOb",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e73d513f4fa4c6426025981fec2387181fbe4b33",
+            "width": 300
+          }
+        ],
+        "name": "Rock Chileno",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "HKfwPS0SUBsJ5jo+rmXv7iEZEEU3zB3c+KPHbtjfO20VwK0c41EFA/mx3idxgE68133vrZJ0wIA=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX3TKWnpd3vOb/tracks",
+          "total": 54
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX3TKWnpd3vOb"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWYPTWocTjneQ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYPTWocTjneQ",
+        "id": "37i9dQZF1DWYPTWocTjneQ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f0166c23aecc188f7e4c065eeafa2a7aeee247cb",
+            "width": 300
+          }
+        ],
+        "name": "Pop Chile",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "brC97fw3fxLyVZQNTY3pT+X/4YCLey/r/gjf42C1rtuQYxTJwqG5jJZ5Qq2hP1x4xTZoB8o3AEw=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYPTWocTjneQ/tracks",
+          "total": 59
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWYPTWocTjneQ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX8DBcbHcgPJw"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX8DBcbHcgPJw",
+        "id": "37i9dQZF1DX8DBcbHcgPJw",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a8a637cb08fa54c347f3effb6d7d268d5d3e511f",
+            "width": 300
+          }
+        ],
+        "name": "¡Dame Más Cumbia!",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "CmuyFjAG7W8J5jo+rmXv7iUDHIDKMGx6FJBVzm2Cn0ie1ERhh6tHbh+5aiqOGOfB0ZArctxI28Y=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX8DBcbHcgPJw/tracks",
+          "total": 62
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8DBcbHcgPJw"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWXrVH01e3PIE"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWXrVH01e3PIE",
+        "id": "37i9dQZF1DWXrVH01e3PIE",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/10aa267eec5b889cea1203f965a9fa4b91b86e95",
+            "width": 300
+          }
+        ],
+        "name": "Trap Argentino",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "CmuyFjAG7W9v23VilaXjOMzIRjl9qD8bPh4GMXKrEivz8PS59o0xRI0zwwjD0JPHSrWnpVin1WI=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWXrVH01e3PIE/tracks",
+          "total": 69
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWXrVH01e3PIE"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX3Ogo9pFvBkY"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX3Ogo9pFvBkY",
+        "id": "37i9dQZF1DX3Ogo9pFvBkY",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/512b6e49d16f6d3453b7e71d2517adb7464cc04f",
+            "width": 300
+          }
+        ],
+        "name": "Ambient Chill",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "U8z56nr/nSSZ2xCQJ4YZBVtCkfjH71x1q4hPvP1YnV1Yf5q2sbUAKA3ENkHguEzyWCYV1TTyweQ=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX3Ogo9pFvBkY/tracks",
+          "total": 71
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX3Ogo9pFvBkY"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWY6tYEFs22tT"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWY6tYEFs22tT",
+        "id": "37i9dQZF1DWY6tYEFs22tT",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/015d74a0d91ece41952d9a7cae4ad23146b32263",
+            "width": 300
+          }
+        ],
+        "name": "Hip-Hop Central",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "hsftMu8fAeDT+Xmzh/6Nc+QfJlvRD1CJnVxTcoFe/ue/8g8iadCi2Mr8y+GjBlMQOJ/+aNKBogo=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWY6tYEFs22tT/tracks",
+          "total": 58
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWY6tYEFs22tT"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0XUsuxWHRQd"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0XUsuxWHRQd",
+        "id": "37i9dQZF1DX0XUsuxWHRQd",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a7486fcd97039563b296e3d6c7d086faea8ace89",
+            "width": 300
+          }
+        ],
+        "name": "RapCaviar",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "TIKm5E3oXtedu9uun/RKF5A4WuEEF/1g79uepDiD1Qb76SszmWWyAXaBOEf8YRe4n3xOk0QN1gY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0XUsuxWHRQd/tracks",
+          "total": 59
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4SBhb3fqCJd"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4SBhb3fqCJd",
+        "id": "37i9dQZF1DX4SBhb3fqCJd",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a16bd6a91682382e9db43a75e74ba3d3744cfe74",
+            "width": 300
+          }
+        ],
+        "name": "Are & Be",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "IvKuQkoidqufseMvvFxbjphOV2UgsrH7roV4FA2xX2a+970q41wUa9a1R2ZOJJws47hAD889ns4=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4SBhb3fqCJd/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4SBhb3fqCJd"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXaXDsfv6nvZ5"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXaXDsfv6nvZ5",
+        "id": "37i9dQZF1DXaXDsfv6nvZ5",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/759d5688bf0d1463bba0a8e1cd71a43343bd7ca0",
+            "width": 300
+          }
+        ],
+        "name": "Soul Coffee",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "dCX7NNq3o6neiI0NbgJ9+tWKUnSjVElx9iszmm+GVn08gJmOTMDu7ZCn3plXoZDvYfXIiuSEOHo=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXaXDsfv6nvZ5/tracks",
+          "total": 79
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXaXDsfv6nvZ5"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7MTlMMRl0MD"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7MTlMMRl0MD",
+        "id": "37i9dQZF1DX7MTlMMRl0MD",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9515d4113c2fd6780488c6173d5c1f7996c1d63a",
+            "width": 300
+          }
+        ],
+        "name": "Bachata Lovers",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "g3IPt8fH/I77tc+nS+3zZYoAOr9ffnzZjj5kmsb6Cc2necjUas9pKa3sViA+yYmvwc6AxHMiqBs=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7MTlMMRl0MD/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7MTlMMRl0MD"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWMOmoXKqHTD"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWWMOmoXKqHTD",
+        "id": "37i9dQZF1DWWMOmoXKqHTD",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8a479ecefd7075c3809fa62857b4334565ce4dc0",
+            "width": 300
+          }
+        ],
+        "name": "Songs to Sing in the Car",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "g3IPt8fH/I4SQV+Puxg94e1FJmxWBWtO8azuw9zJfXSB0Oi78QAJUPNKq6HszDTwFKg8L3k7NP4=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWWMOmoXKqHTD/tracks",
+          "total": 81
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWWMOmoXKqHTD"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX76Wlfdnj7AP"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX76Wlfdnj7AP",
+        "id": "37i9dQZF1DX76Wlfdnj7AP",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f676cf1b6d0aac30bf29cb4fc17e4aaa2f2a3b77",
+            "width": 300
+          }
+        ],
+        "name": "Beast Mode",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "g3IPt8fH/I5vqegSV8c2i3CbB+KKI8DXfAg9DIoMcEW0xkuY4bpBCx5ItNzncpBt8Je3k1hIDjc=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX76Wlfdnj7AP/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 20
+  }
+}

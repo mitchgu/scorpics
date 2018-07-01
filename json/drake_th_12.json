@@ -1,0 +1,421 @@
+{
+  "message": "Thank God it's Drake release Friday!",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=TH&locale=en_us&timestamp=2018-06-29T12%3A00%3A00&offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX2ZbLEg4W5iS"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX2ZbLEg4W5iS",
+        "id": "37i9dQZF1DX2ZbLEg4W5iS",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/86cf593c7666ed1726d954eae848c3a5dc4c7585",
+            "width": 300
+          }
+        ],
+        "name": "New Music Friday Thailand",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "7naFMeKylpbeiI0NbgJ9+l1DrvUxr/z+cs8Wl6H+fJcrQ4D56B/uMOKmiaF/qSJI7gW47U9Rwtg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX2ZbLEg4W5iS/tracks",
+          "total": 68
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX2ZbLEg4W5iS"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7QOv5kjbU68"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68",
+        "id": "37i9dQZF1DX7QOv5kjbU68",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6d3019960de3a0932ae23c90fcbf71619a1cc0d6",
+            "width": 300
+          }
+        ],
+        "name": "This Is Drake",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "XzqIhgIxPD9v23VilaXjONWKUnSjVElxWgxzkwbsi4fkGUSgrxxv8h6DIQYRFAy8Lls5NACknEg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7QOv5kjbU68"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXc51TI5dx7RC"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXc51TI5dx7RC",
+        "id": "37i9dQZF1DXc51TI5dx7RC",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8d1f0a024ccbe44191cfa0c6aa27cd9011a131aa",
+            "width": 300
+          }
+        ],
+        "name": "เพลงฮิตประเทศไทย",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "3DIafXQhyvnSx+EWtgUQsStA8T6N9TNfIpIGvVSs/cSLziO5b2TvrcEfLawWO+3D2OsYHX4wMys=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXc51TI5dx7RC/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXc51TI5dx7RC"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcRXFNfZr7Tp"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcRXFNfZr7Tp",
+        "id": "37i9dQZF1DXcRXFNfZr7Tp",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f2fe9a4e10c164074d96b666aa760f16e0f152ae",
+            "width": 300
+          }
+        ],
+        "name": "TGIF",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "1nMRWBYvc3i6dxsEKVx8mabMZrpxe+qVrCFZLYWc7DRyPy8m1sXSez2kYfOorN3t7c/q1Ym9zRU=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcRXFNfZr7Tp/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXcRXFNfZr7Tp"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWW1S2VXZ4bIj"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWW1S2VXZ4bIj",
+        "id": "37i9dQZF1DWW1S2VXZ4bIj",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/42b0d5e5e2259c5d7014bb07d847bb233b4f44e2",
+            "width": 300
+          }
+        ],
+        "name": "ฮิตติดกระแส - ฮิปฮอป",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "3DIafXQhyvmXYFUWvU5WKmocsUw2pMoembCCPwlMHgSaeWEOHERQ9CeJYsdbdbGZ7wi8h0ukdeQ=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWW1S2VXZ4bIj/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWW1S2VXZ4bIj"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXca8AyWK6Y7g"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXca8AyWK6Y7g",
+        "id": "37i9dQZF1DXca8AyWK6Y7g",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f8adb719aa40dfec0a6b082606764317376110dd",
+            "width": 300
+          }
+        ],
+        "name": "Young & Free",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "stb7vyoYd/CK85F1gPbNvvUWy9O/e5gSQna+KfO/5Su+NE9rCvgTpFtjNW/BdYWKl8kr1mXAPHk=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXca8AyWK6Y7g/tracks",
+          "total": 126
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXca8AyWK6Y7g"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0bGxKepv6YZ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0bGxKepv6YZ",
+        "id": "37i9dQZF1DX0bGxKepv6YZ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8c3d7c0baf62a7ccfa156f5c2d53bc48387bd6df",
+            "width": 300
+          }
+        ],
+        "name": "เพลงไทยสายชิลล์",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "lGfylWdOShGuhUrM+5ItLlGKU85deBxy61y5fjcfDZtYZzCKK7StOtbNB29CVpeOQUcCFuKajqk=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0bGxKepv6YZ/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0bGxKepv6YZ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcBWIGoYBM5M"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcBWIGoYBM5M",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/179fd45014801e04939ff4d5a05a33fa5a574e2b",
+            "width": 300
+          }
+        ],
+        "name": "Today's Top Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "nKZGoj2Ib37yJDLZO5NilVF/8d2mdFc3NWh1qQb8JNgpfxNMN2Zh0Whh5YXZTD7bW8paoVH9Bgw=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZBWI0pMa6tz"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZBWI0pMa6tz",
+        "id": "37i9dQZF1DWZBWI0pMa6tz",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/0c4642abd84ba7794899ea81afa0e1db5d0c2df9",
+            "width": 300
+          }
+        ],
+        "name": "บรรเลงฟังสบาย",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "CEiZ0AwC564x86d0hzBr3UBWnqDIBW0OPWfrjAD9r3i06uZK1lwlnB9AGV4jjA8vAaWPCjCsPFw=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZBWI0pMa6tz/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWZBWI0pMa6tz"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0XUsuxWHRQd"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0XUsuxWHRQd",
+        "id": "37i9dQZF1DX0XUsuxWHRQd",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a7486fcd97039563b296e3d6c7d086faea8ace89",
+            "width": 300
+          }
+        ],
+        "name": "RapCaviar",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "TIKm5E3oXtedu9uun/RKF5A4WuEEF/1g79uepDiD1Qb76SszmWWyAXaBOEf8YRe4n3xOk0QN1gY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0XUsuxWHRQd/tracks",
+          "total": 59
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX2d9wHUNcEXV"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX2d9wHUNcEXV",
+        "id": "37i9dQZF1DX2d9wHUNcEXV",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/60c81ce66242021e20d185f837e9ecbdf4005310",
+            "width": 300
+          }
+        ],
+        "name": "เหนื่อยนักพักก่อน",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "uIW0uAM58P3DYWVSFp+sZGsDmkZXoOrBlCsxkdS8ej+9BZUe6nuT6khmYRP8h3O1WivbXUCVz98=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX2d9wHUNcEXV/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX2d9wHUNcEXV"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWYs83FtTMQFw"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYs83FtTMQFw",
+        "id": "37i9dQZF1DWYs83FtTMQFw",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/b63b7ee1d7e64454452e26b6785f9f263c2a12bc",
+            "width": 300
+          }
+        ],
+        "name": "Hot Rhythmic",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "nKZGoj2Ib37+4J8wm7OkI798W2EHApghoUH6I23cMtb/u+Aycyx+QRfkkuCvxNyI9dSp/oVLGJY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYs83FtTMQFw/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWYs83FtTMQFw"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  }
+}

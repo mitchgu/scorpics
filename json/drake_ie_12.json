@@ -1,0 +1,421 @@
+{
+  "message": "All your favourite playlists",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=IE&timestamp=2018-06-29T12%3A00%3A00&offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4W3aJJYCDfV"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4W3aJJYCDfV",
+        "id": "37i9dQZF1DX4W3aJJYCDfV",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/86cf593c7666ed1726d954eae848c3a5dc4c7585",
+            "width": 300
+          }
+        ],
+        "name": "New Music Friday UK",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "AizD0NAwtg/7tc+nS+3zZb+gcCR3aoKzd45ZKMzANpBnjkCisVsfBEWo+jRzEumltpZ6XEgUZzQ=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4W3aJJYCDfV/tracks",
+          "total": 77
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4W3aJJYCDfV"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4SBhb3fqCJd"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4SBhb3fqCJd",
+        "id": "37i9dQZF1DX4SBhb3fqCJd",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a16bd6a91682382e9db43a75e74ba3d3744cfe74",
+            "width": 300
+          }
+        ],
+        "name": "Are & Be",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "IvKuQkoidqufseMvvFxbjphOV2UgsrH7roV4FA2xX2a+970q41wUa9a1R2ZOJJws47hAD889ns4=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4SBhb3fqCJd/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4SBhb3fqCJd"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVlYsZJXqdym"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVlYsZJXqdym",
+        "id": "37i9dQZF1DWVlYsZJXqdym",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/1ed50fff806cd18c0db447dfbc5f3248205732f6",
+            "width": 300
+          }
+        ],
+        "name": "Happy Pop Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "EAShlBLmahUYRLv5eKb2dhbskENf6VHVCrwXoAa41eVLbE19wncEuB/BxUcXSelWWAU/1uGy6Eg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVlYsZJXqdym/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVlYsZJXqdym"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX1g0iEXLFycr"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1g0iEXLFycr",
+        "id": "37i9dQZF1DX1g0iEXLFycr",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/62d0d7741c63a315957514b4a586e2f74c5e1690",
+            "width": 300
+          }
+        ],
+        "name": "Feel Good Friday",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "tHvGM9bi12cZzNdWN2iWhl8SwvSUx3SvbI8cPtjtiibKkPC5iMlhbstTzoAN5FB/KAfKX9siooY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1g0iEXLFycr/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX1g0iEXLFycr"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7QOv5kjbU68"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68",
+        "id": "37i9dQZF1DX7QOv5kjbU68",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6d3019960de3a0932ae23c90fcbf71619a1cc0d6",
+            "width": 300
+          }
+        ],
+        "name": "This Is Drake",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "XzqIhgIxPD9v23VilaXjONWKUnSjVElxWgxzkwbsi4fkGUSgrxxv8h6DIQYRFAy8Lls5NACknEg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7QOv5kjbU68"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX5Ozry5U6G0d"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5Ozry5U6G0d",
+        "id": "37i9dQZF1DX5Ozry5U6G0d",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d74ac49444b65191e503fe11a1fb1b046ca5c35d",
+            "width": 300
+          }
+        ],
+        "name": "Summer Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "jyNEyptDA8SXYFUWvU5WKl0vCXW2862aM25LZ/Q9xS2pnnYeHx9rOySWzgI6s8ZCMrtLN7ZnFUw=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5Ozry5U6G0d/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX5Ozry5U6G0d"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWY4lFlS4Pnso"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWY4lFlS4Pnso",
+        "id": "37i9dQZF1DWY4lFlS4Pnso",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/209263e6a5dc3f201c81d5f1592deee300b0fdf3",
+            "width": 300
+          }
+        ],
+        "name": "Hot Hits UK",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "MjETxVhhb2JFjz6I/0CmZw4kbLCcvJZA+WJdlOMTLVpX/Fze8Pvx9iTHfrpzQ+IqtoftFC1SJ4s=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWY4lFlS4Pnso/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWY4lFlS4Pnso"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWSVtp02hITpN"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWSVtp02hITpN",
+        "id": "37i9dQZF1DWSVtp02hITpN",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/3472aee4d399f59921b690aa56675f8cbf06df92",
+            "width": 300
+          }
+        ],
+        "name": "The Pop List",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "XKVcJyKTFzQZzNdWN2iWhtexwd79eHHEkzRkaIFzwuNAVp6gyAVtDp7BOzZ0Xj+jd/PTS7586Ac=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWSVtp02hITpN/tracks",
+          "total": 70
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWSVtp02hITpN"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4a0nQYnltiQ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4a0nQYnltiQ",
+        "id": "37i9dQZF1DX4a0nQYnltiQ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/cd0c729d0c1b23eef822fac6720462a5d6e00a26",
+            "width": 300
+          }
+        ],
+        "name": "This Is How We Do",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "fZwRN5Os2ZEZzNdWN2iWhmYm6ALgbZj7Azrl9SvwHl8IXXU6h82ZRS+I8TIxQUzo5TDzsKMsmBY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4a0nQYnltiQ/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4a0nQYnltiQ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX5uokaTN4FTR"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5uokaTN4FTR",
+        "id": "37i9dQZF1DX5uokaTN4FTR",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/4f97febed135991fb70daed745f957d709acd163",
+            "width": 300
+          }
+        ],
+        "name": "Massive Dance Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "JXq5AVh+xK3pVjUkF5bDz9zFK2HYyZU1jZOa9Pd/Svegri2JJuNZo0frsWL2rD4+U4L7U8UUZyM=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5uokaTN4FTR/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX5uokaTN4FTR"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX76Wlfdnj7AP"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX76Wlfdnj7AP",
+        "id": "37i9dQZF1DX76Wlfdnj7AP",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f676cf1b6d0aac30bf29cb4fc17e4aaa2f2a3b77",
+            "width": 300
+          }
+        ],
+        "name": "Beast Mode",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "LqwSnGeFBi5vqegSV8c2i3CbB+KKI8DXfAg9DIoMcEW0xkuY4bpBCx5ItNzncpBt8Je3k1hIDjc=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX76Wlfdnj7AP/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWSIaDfaHJHox"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWSIaDfaHJHox",
+        "id": "37i9dQZF1DWSIaDfaHJHox",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/46c29df98046ec93258336245c2d94e663ff3173",
+            "width": 300
+          }
+        ],
+        "name": "Best of British",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "tHvGM9bi12cZzNdWN2iWhp/ivLzodCksbI8cPtjtiiZBkkgToc9Ot5l8QDCXWEtfUQcd4tnAiQU=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWSIaDfaHJHox/tracks",
+          "total": 250
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWSIaDfaHJHox"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  }
+}

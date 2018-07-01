@@ -1,0 +1,421 @@
+{
+  "message": "Thank God it's Drake release Friday!",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=HK&locale=en_us&timestamp=2018-06-29T12%3A00%3A00&offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXbVmhQBDSKS7"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXbVmhQBDSKS7",
+        "id": "37i9dQZF1DXbVmhQBDSKS7",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/3c917b4d924bf66ea389c19babc3e2a97c4ac307",
+            "width": 300
+          }
+        ],
+        "name": "新歌熱播",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "IEjiOK3Sybv7tc+nS+3zZe7SAJfFuwS+D5mHtqS9vR7McuZEZCyyPCn2lqpP4pUAfYsRlcPL08Q=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXbVmhQBDSKS7/tracks",
+          "total": 73
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXbVmhQBDSKS7"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVImURhejvlp"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVImURhejvlp",
+        "id": "37i9dQZF1DWVImURhejvlp",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a7d0a63405733b9d18e6e04df63332621ec9e007",
+            "width": 300
+          }
+        ],
+        "name": "香港流行樂",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "OV3uQVUAgSHvfogXzEAiY0c9lUpZR0TWnj27nV+/y1y+umzIUnAckmaiiBTwBQr7lSi/EjivPLo=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVImURhejvlp/tracks",
+          "total": 56
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVImURhejvlp"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4UYQxwfbtyk"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4UYQxwfbtyk",
+        "id": "37i9dQZF1DX4UYQxwfbtyk",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/400958d50b958d73f664b5f7bfbfd142fbaaae3c",
+            "width": 300
+          }
+        ],
+        "name": "全球人氣榜",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "dBWwTxdUQNvEs+mygxTB9FR133FpJIHp3GTU/K/Su4ZNTuOE584m+am3QfN3nodDnpDyrLcmQ4s=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4UYQxwfbtyk/tracks",
+          "total": 53
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4UYQxwfbtyk"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7QOv5kjbU68"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68",
+        "id": "37i9dQZF1DX7QOv5kjbU68",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6d3019960de3a0932ae23c90fcbf71619a1cc0d6",
+            "width": 300
+          }
+        ],
+        "name": "This Is Drake",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "XzqIhgIxPD9v23VilaXjONWKUnSjVElxWgxzkwbsi4fkGUSgrxxv8h6DIQYRFAy8Lls5NACknEg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7QOv5kjbU68"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcA6dRp8rwj6"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcA6dRp8rwj6",
+        "id": "37i9dQZF1DXcA6dRp8rwj6",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/95e586fd1ec65907f397482b31d9537f2da1e440",
+            "width": 300
+          }
+        ],
+        "name": "Beats & Rhymes",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "JA8UUGxAceHFNyaDefpQNQSfjZOWGDlFrzyIfERs4jSfWaqSsevByDu20+EwSjAKArVwtPKtPYk=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcA6dRp8rwj6/tracks",
+          "total": 63
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXcA6dRp8rwj6"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX92WvAvnQG1Y"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX92WvAvnQG1Y",
+        "id": "37i9dQZF1DX92WvAvnQG1Y",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/c308884c47d3ece3860f60b7819f2053462005bd",
+            "width": 300
+          }
+        ],
+        "name": "情歌不敗",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "OV3uQVUAgSHDYWVSFp+sZNScji/nK/DUnlsmWOyBOYMwcTQD9Skl/IyIIIvC5dpKfbruWdxETo4=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX92WvAvnQG1Y/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX92WvAvnQG1Y"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXdPec7aLTmlC"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXdPec7aLTmlC",
+        "id": "37i9dQZF1DXdPec7aLTmlC",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d50d0639e56561827005a293ff0fc17103d3e830",
+            "width": 300
+          }
+        ],
+        "name": "Happy Hits!",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "GxTMCgJXIbKTKGhxCPzJmbHkhYznD3p6t+gCevN6jSLt/2bn+t2iKe0GWdjaENXqVgmfE1N8nNo=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXdPec7aLTmlC/tracks",
+          "total": 54
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX54hVmopd3Yt"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX54hVmopd3Yt",
+        "id": "37i9dQZF1DX54hVmopd3Yt",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a534b58b3075ad101331f2dbe15e26fa3ab252ff",
+            "width": 300
+          }
+        ],
+        "name": "唱K熱榜",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "OV3uQVUAgSEz9N5uLx+fCU8OeDe1OJW4GwplDE0rb4wZS/xSnZbsMjkoKJUmJ5OFlKWB7OjVz8Y=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX54hVmopd3Yt/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX54hVmopd3Yt"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXca8AyWK6Y7g"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXca8AyWK6Y7g",
+        "id": "37i9dQZF1DXca8AyWK6Y7g",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f8adb719aa40dfec0a6b082606764317376110dd",
+            "width": 300
+          }
+        ],
+        "name": "Young & Free",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "stb7vyoYd/CK85F1gPbNvvUWy9O/e5gSQna+KfO/5Su+NE9rCvgTpFtjNW/BdYWKl8kr1mXAPHk=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXca8AyWK6Y7g/tracks",
+          "total": 126
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXca8AyWK6Y7g"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWV3IJ2kse1M3"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWV3IJ2kse1M3",
+        "id": "37i9dQZF1DWV3IJ2kse1M3",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/b65d18d649787c2fe3a66f93d8dd61ac822e4b38",
+            "width": 300
+          }
+        ],
+        "name": "悲傷釋放",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "OV3uQVUAgSGNi5iKxFOAUISkxkLoYgE8xyBS+h7FRNPNT/PMNPV+F3nWU/0zFb7/UkFkJwspr+w=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWV3IJ2kse1M3/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWV3IJ2kse1M3"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4SBhb3fqCJd"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4SBhb3fqCJd",
+        "id": "37i9dQZF1DX4SBhb3fqCJd",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a16bd6a91682382e9db43a75e74ba3d3744cfe74",
+            "width": 300
+          }
+        ],
+        "name": "Are & Be",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "IvKuQkoidqufseMvvFxbjphOV2UgsrH7roV4FA2xX2a+970q41wUa9a1R2ZOJJws47hAD889ns4=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4SBhb3fqCJd/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4SBhb3fqCJd"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX1aA8os1ylFZ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1aA8os1ylFZ",
+        "id": "37i9dQZF1DX1aA8os1ylFZ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/832d3ccf78f9a3bf393eef4d9bcc8d6a14ce86dd",
+            "width": 300
+          }
+        ],
+        "name": "BAE",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "JA8UUGxAceHaJK0Dleq5eI3QnnlM0EtX7pyA6V4dXnMepi4fvoDiaO3THgauf6kwUBLaIwN3cnY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1aA8os1ylFZ/tracks",
+          "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX1aA8os1ylFZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "message": "Keeping your night going!",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=GB&timestamp=2018-07-01T00%3A00%3A00&offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVrBRunTOXCY"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVrBRunTOXCY",
+        "id": "37i9dQZF1DWVrBRunTOXCY",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/25fdfeff6a35fa53fee173cf64b6ec0be7eb787d",
+            "width": 300
+          }
+        ],
+        "name": "Summer Hits UK",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "C8rQV79wewQSQV+Puxg94VR133FpJIHpgGW0EnvXSl3U0/IOsWv/d2XYx7m/Sr2hpmDX/eu1PPI=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVrBRunTOXCY/tracks",
+          "total": 70
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVrBRunTOXCY"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWYtg7TV07mgz"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYtg7TV07mgz",
+        "id": "37i9dQZF1DWYtg7TV07mgz",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ad4b6023fe06ee18b0a40f7eb8fbe6c64a395fc0",
+            "width": 300
+          }
+        ],
+        "name": "Massive Dance Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "tHvGM9bi12cZzNdWN2iWhvAc0iwN169NbI8cPtjtiibFTFDkCD/drL4LOsHfvJxXYSLT+jHVIcg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYtg7TV07mgz/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWYtg7TV07mgz"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWX9mGYsaqc7V"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWX9mGYsaqc7V",
+        "id": "37i9dQZF1DWX9mGYsaqc7V",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/c95771c6bd42cf407f6486827c6c596c19f565d5",
+            "width": 300
+          }
+        ],
+        "name": "Slow Jamz",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "/Uz/yzRwE/+6dxsEKVx8mVGKU85deBxym3m6+OYeitX4W6vHB+acCnkB3ZKtIosbZtvAB+rHld8=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWX9mGYsaqc7V/tracks",
+          "total": 67
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWX9mGYsaqc7V"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX5Ozry5U6G0d"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5Ozry5U6G0d",
+        "id": "37i9dQZF1DX5Ozry5U6G0d",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d74ac49444b65191e503fe11a1fb1b046ca5c35d",
+            "width": 300
+          }
+        ],
+        "name": "Summer Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "jyNEyptDA8SXYFUWvU5WKl0vCXW2862aM25LZ/Q9xS2pnnYeHx9rOySWzgI6s8ZCMrtLN7ZnFUw=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5Ozry5U6G0d/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX5Ozry5U6G0d"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7QOv5kjbU68"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68",
+        "id": "37i9dQZF1DX7QOv5kjbU68",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6d3019960de3a0932ae23c90fcbf71619a1cc0d6",
+            "width": 300
+          }
+        ],
+        "name": "This Is Drake",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "XzqIhgIxPD9v23VilaXjONWKUnSjVElxWgxzkwbsi4fkGUSgrxxv8h6DIQYRFAy8Lls5NACknEg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7QOv5kjbU68"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0MXH7aN4Pxn"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0MXH7aN4Pxn",
+        "id": "37i9dQZF1DX0MXH7aN4Pxn",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/b964304bacc3b49f5a73981051dda5aa9db546f0",
+            "width": 300
+          }
+        ],
+        "name": "All Night Dance Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "tHvGM9bi12cZzNdWN2iWhmIlnn8Pr/X9bI8cPtjtiiZBkkgToc9Ot1b+X7phqtziY+qmGKJzMhI=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0MXH7aN4Pxn/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0MXH7aN4Pxn"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWYs83FtTMQFw"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYs83FtTMQFw",
+        "id": "37i9dQZF1DWYs83FtTMQFw",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/b63b7ee1d7e64454452e26b6785f9f263c2a12bc",
+            "width": 300
+          }
+        ],
+        "name": "Hot Rhythmic",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "nKZGoj2Ib37+4J8wm7OkI798W2EHApghoUH6I23cMtb/u+Aycyx+QRfkkuCvxNyI9dSp/oVLGJY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWYs83FtTMQFw/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWYs83FtTMQFw"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWTujiC7wfofZ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWTujiC7wfofZ",
+        "id": "37i9dQZF1DWTujiC7wfofZ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/86fb26a38586a95199dccbfd2926646f0449793e",
+            "width": 300
+          }
+        ],
+        "name": "Indie Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "tHvGM9bi12cZzNdWN2iWhvoez6/jzvt9bI8cPtjtiiZqHlqM955xiYsaJL3COxXRxYcEUzUa2zs=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWTujiC7wfofZ/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWTujiC7wfofZ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4a0nQYnltiQ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4a0nQYnltiQ",
+        "id": "37i9dQZF1DX4a0nQYnltiQ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/cd0c729d0c1b23eef822fac6720462a5d6e00a26",
+            "width": 300
+          }
+        ],
+        "name": "This Is How We Do",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "fZwRN5Os2ZEZzNdWN2iWhmYm6ALgbZj7Azrl9SvwHl8IXXU6h82ZRS+I8TIxQUzo5TDzsKMsmBY=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4a0nQYnltiQ/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4a0nQYnltiQ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWCAjkSJsi1g"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWWCAjkSJsi1g",
+        "id": "37i9dQZF1DWWCAjkSJsi1g",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f000ec24855e2e770ade2cb63eb386e9c3bfb249",
+            "width": 300
+          }
+        ],
+        "name": "Room 2: Urban Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "nCFKYuSRK7oFaCxEPj192GyVMPUX6aTtbI8cPtjtiiYyX1wL6Sw+6nSCPg0jAcU4mvrHNeRMsIg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWWCAjkSJsi1g/tracks",
+          "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWWCAjkSJsi1g"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWSOkubnsDCSS"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWSOkubnsDCSS",
+        "id": "37i9dQZF1DWSOkubnsDCSS",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/1b43b8a4e6d9e9b63361228dc78c120bc65f8f4e",
+            "width": 300
+          }
+        ],
+        "name": "Grime Shutdown",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "tHvGM9bi12cZzNdWN2iWhl1DrvUxr/z+bI8cPtjtiibFTFDkCD/drDm9gCii94TUR4/FH6PTprc=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWSOkubnsDCSS/tracks",
+          "total": 71
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWSOkubnsDCSS"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+  }
+}

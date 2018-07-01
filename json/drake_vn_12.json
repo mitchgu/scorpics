@@ -1,0 +1,455 @@
+{
+  "message": "Ơn giời, Drake đây rồi!",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=VN&locale=en_us&timestamp=2018-06-29T12%3A00%3A00&offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX5G3iiHaIzdf"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5G3iiHaIzdf",
+        "id": "37i9dQZF1DX5G3iiHaIzdf",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/86cf593c7666ed1726d954eae848c3a5dc4c7585",
+            "width": 300
+          }
+        ],
+        "name": "New Music Friday Vietnam",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "USzBnprkPSKfBIqL2hdx5HPeNiZLDaltbVdUOZmgKQOfYzYPQTZoh1Ppv+8YsNNoyFA5lbIBEkg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5G3iiHaIzdf/tracks",
+          "total": 59
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX5G3iiHaIzdf"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7QOv5kjbU68"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68",
+        "id": "37i9dQZF1DX7QOv5kjbU68",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6d3019960de3a0932ae23c90fcbf71619a1cc0d6",
+            "width": 300
+          }
+        ],
+        "name": "This Is Drake",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "XzqIhgIxPD9v23VilaXjONWKUnSjVElxWgxzkwbsi4fkGUSgrxxv8h6DIQYRFAy8Lls5NACknEg=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7QOv5kjbU68/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7QOv5kjbU68"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6sCJFCJIfiB"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX6sCJFCJIfiB",
+        "id": "37i9dQZF1DX6sCJFCJIfiB",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/85ac5ecce7ef97a75eeaa89085e36358c465b62a",
+            "width": 300
+          }
+        ],
+        "name": "#phượt",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "wRCPcwj/dZVp1rzm18aNYC7NtSfAuZ2eYTKq4j6B62eVFbyGPdJ2KyP5nJ9iJcDU9BOMtr6bJX4=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX6sCJFCJIfiB/tracks",
+          "total": 46
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX6sCJFCJIfiB"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX7sUtJC5lRfJ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7sUtJC5lRfJ",
+        "id": "37i9dQZF1DX7sUtJC5lRfJ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/322d9f8786384f7c7517af780e43d2a368bd9a88",
+            "width": 300
+          }
+        ],
+        "name": "Cho Ngày Làm Việc",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "SOY+JXoLVg4YRLv5eKb2dp0zpIynlDB12YZI6hjPHB4IUQ0TkI+v/nZCxub31UdkTCsy1Gb0oeI=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX7sUtJC5lRfJ/tracks",
+          "total": 88
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX7sUtJC5lRfJ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4WYpdgoIcn6"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4WYpdgoIcn6",
+        "id": "37i9dQZF1DX4WYpdgoIcn6",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6cf1ab2e295998edf689cec9717c81fa4475961a",
+            "width": 300
+          }
+        ],
+        "name": "Chill Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "pjBdSkcDebUJylxLh6waoLZi7AFsvG2SvSGEV2DnbfLARqEZU0CXUtu5PiUntd1Sw4RMdzuiPmc=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4WYpdgoIcn6/tracks",
+          "total": 103
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWWMOmoXKqHTD"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWWMOmoXKqHTD",
+        "id": "37i9dQZF1DWWMOmoXKqHTD",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8a479ecefd7075c3809fa62857b4334565ce4dc0",
+            "width": 300
+          }
+        ],
+        "name": "Songs to Sing in the Car",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "1nMRWBYvc3gZzNdWN2iWhu1FJmxWBWtO8azuw9zJfXSB0Oi78QAJUPNKq6HszDTwFKg8L3k7NP4=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWWMOmoXKqHTD/tracks",
+          "total": 81
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DWWMOmoXKqHTD"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX5Ozry5U6G0d"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5Ozry5U6G0d",
+        "id": "37i9dQZF1DX5Ozry5U6G0d",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d74ac49444b65191e503fe11a1fb1b046ca5c35d",
+            "width": 300
+          }
+        ],
+        "name": "Summer Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "jyNEyptDA8SXYFUWvU5WKl0vCXW2862aM25LZ/Q9xS2pnnYeHx9rOySWzgI6s8ZCMrtLN7ZnFUw=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX5Ozry5U6G0d/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX5Ozry5U6G0d"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcRXFNfZr7Tp"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcRXFNfZr7Tp",
+        "id": "37i9dQZF1DXcRXFNfZr7Tp",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f2fe9a4e10c164074d96b666aa760f16e0f152ae",
+            "width": 300
+          }
+        ],
+        "name": "TGIF",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "1nMRWBYvc3i9twkkDQYyxqbMZrpxe+qVrCFZLYWc7DRyPy8m1sXSez2kYfOorN3t7c/q1Ym9zRU=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcRXFNfZr7Tp/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXcRXFNfZr7Tp"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4g8Gs5nUhpp"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4g8Gs5nUhpp",
+        "id": "37i9dQZF1DX4g8Gs5nUhpp",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/821ae6ddc9bb954df52ea9199089e0cb639181c7",
+            "width": 300
+          }
+        ],
+        "name": "V-Pop Không Thể Thiếu",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "3/R59Q+3U8s740nvBhrNDJ5k7bRPC024KKGlkiTZdvbNpICGwbVrJJpayBCiZQxrfGoUk/V2dXM=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4g8Gs5nUhpp/tracks",
+          "total": 47
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4g8Gs5nUhpp"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX1e2VSJFudND"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1e2VSJFudND",
+        "id": "37i9dQZF1DX1e2VSJFudND",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6fe631fdb1ee50f5abd20e1911fd866eb0fa0b63",
+            "width": 300
+          }
+        ],
+        "name": "Cà Phê Quán Quen",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "ejp/2FzJVKcZzNdWN2iWhlfiICwfX8JH1LOZTjTB7YkgG6ripFeKRvbqicbVd7c0H/WY3xQVOQA=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1e2VSJFudND/tracks",
+          "total": 52
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX1e2VSJFudND"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX39t8KGTcoSG"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX39t8KGTcoSG",
+        "id": "37i9dQZF1DX39t8KGTcoSG",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/1b79dda4cb3693b0f9ced868f3f6ba1234103e01",
+            "width": 300
+          }
+        ],
+        "name": "Giai Điệu Phương Xa",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "wRCPcwj/dZXgDAlChlDfhpGTTrFsadHqIcK3BBaIIm+b6bS50F9MzNoZrBNF4Biw4pWmmC3S7H0=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX39t8KGTcoSG/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX39t8KGTcoSG"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX0F4i7Q9pshJ"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0F4i7Q9pshJ",
+        "id": "37i9dQZF1DX0F4i7Q9pshJ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/8fac68e95a526b57453f694b0eb955f62e8e57d1",
+            "width": 300
+          }
+        ],
+        "name": "Top Hits Vietnam",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "SOY+JXoLVg66Z2+omLmwqGyVMPUX6aTtDJdBNJHbxhhK81DE5oHYK+A8V6RmjIw8ImZK2vCK5Fc=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX0F4i7Q9pshJ/tracks",
+          "total": 53
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0F4i7Q9pshJ"
+      },
+      {
+        "collaborative": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcA6dRp8rwj6"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcA6dRp8rwj6",
+        "id": "37i9dQZF1DXcA6dRp8rwj6",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/95e586fd1ec65907f397482b31d9537f2da1e440",
+            "width": 300
+          }
+        ],
+        "name": "Beats & Rhymes",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "public": null,
+        "snapshot_id": "JA8UUGxAceHFNyaDefpQNQSfjZOWGDlFrzyIfERs4jSfWaqSsevByDu20+EwSjAKArVwtPKtPYk=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DXcA6dRp8rwj6/tracks",
+          "total": 63
+        },
+        "type": "playlist",
+        "uri": "spotify:user:spotify:playlist:37i9dQZF1DXcA6dRp8rwj6"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13
+  }
+}
